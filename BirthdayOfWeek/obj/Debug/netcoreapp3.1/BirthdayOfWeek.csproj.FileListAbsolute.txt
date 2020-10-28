@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.exe
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.deps.json
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.dll
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.pdb
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.dll
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.pdb
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.exe
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.deps.json
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.dll
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.pdb
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.dll
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.pdb
+C:\Users\julia.voronetskaja\source\repos\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.genruntimeconfig.cache
